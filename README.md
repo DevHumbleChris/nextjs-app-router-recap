@@ -1,4 +1,4 @@
-## Next.js App Router Crash Course
+# Next.js App Router Crash Course
 
 This is crash course from [course curriculum](https://nextjs.org/learn) that is helping me have a recap of Nextjs app router understanding and many more 😉😉.
 
